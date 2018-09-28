@@ -8,4 +8,5 @@ Compile
  
  RUN `./ff_farm img.jpg output/ logo.jpg 130 2 1000` 
  
- 
+ Arguments `(130:images ,2:Nw , 1000:10 msecs delay)`
+
