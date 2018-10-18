@@ -1,4 +1,4 @@
-# SPMProject18
+# Final Project: Distributed systems: paradigms and models
 ```Context```
 The problem is to apply a "marker" of the same dimension onto the images provided by the user.To achieve this, I use the CIMG library to process the images. 
 
